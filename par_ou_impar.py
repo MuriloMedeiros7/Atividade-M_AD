@@ -3,10 +3,3 @@ def par(n):
         return True
     else:
         return False
-while True:
-    num = int (input("\nInsira um número: "))
-    if par(num):
-         print ("\nÉ par")
-    else:
-         print ("\nÉ impar")
-    break
