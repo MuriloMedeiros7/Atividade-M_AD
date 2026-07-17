@@ -7,7 +7,7 @@ while True:
     if escolha == "1":
         print ("Coloque o seu código a partir daqui")
     if escolha == "2":
-        print("\nBem vindo a função de identificação dos números!")
+        print("\nBem vindo a função de identificação dos números! ")
         num = int (input("\nInsira um número: "))
         if par(num):
             print ("\nÉ par\n")
